@@ -15,7 +15,7 @@
       "zip": "78209"
     },
     "website": "http://www.mayerroger.com",
-    "resumedownload":"http://www.mayerroger.com",
+    "resumedownload":"RogerMayerResume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -40,22 +40,28 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I love creating front end design and implementing back-end databases to customize the user experience",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Codeup",
+        "degree":"Full Stack Web Development",
+        "graduated":"February 2020",
+        "description":"Lot's of coding stuff."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"San Antonio College",
+        "degree":"Associates Business Administration",
+        "graduated":"May 2014",
+        "description":"Accounting, Economics, Management."
       }
     ],
     "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
       {
         "company":"Awesome Design Studio",
         "title":"Senior UX God ",
@@ -70,20 +76,9 @@
       }
     ],
     "skills":[
+
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"CSS with Bootstrap",
         "level":"90%"
       },
       {
@@ -91,12 +86,26 @@
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"ReactJs",
+        "level":"66%"
+      },
+
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+
+      {
+        "name":"Java",
+        "level":"65%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Spring with Thymeleaf",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
       }
     ]
   },
