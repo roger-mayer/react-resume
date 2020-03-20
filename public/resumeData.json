@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Roger Mayer",
+    "occupation":"Software Developer",
+    "description":"I am a creative, problem solving developer with an aspiration to be a lifelong learner of new technologies. Through determination and consistency, I have excelled and rapidly received promotions at every job I have ever had. Now, I push myself daily in the passion of full stack web development. I am dedicated to building and optimizing the performance of user-centric, high-impact websites with clean, sustainable code.",
+    "image":"profilepic.jpg",
+    "bio":"Father, Husband, Manager, Artist, Developer",
+    "contactmessage":"Call or email",
+    "email": "rmayer1984@gmail.com",
+    "phone": "210-557-5704",
+    "address":{
+      "street":"930 Everest",
+      "city":"San Antonio",
+      "state":"Texas",
+      "zip": "78209"
+    },
+    "website": "http://www.mayerroger.com",
+    "resumedownload":"http://www.mayerroger.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/roger-mayer/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/roger-mayer",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"website",
+        "url":"http://mayerroger.com",
+        "className":"fa fa-globe"
+      },
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/asap_dodger/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"OpenHelp",
+        "category":"Full stack using Spring MVC and Maven deployment",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://myopenhelp.com"
+      },
+      {
+        "title":"Radlister",
+        "category":"Full stack with Spring MVC and MySQL database",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://github.com/rADlister-project/radlister"
+      },
+      {
+        "title":"WeatherOrNot",
+        "category":"Utilizes AJAX requests to Mapbox and DarkSky API",
+        "image":"original-thai-food.jpg",
+        "url":"https://github.com/roger-mayer/codeup-web-exercises/blob/master/weather_map.html"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Roger is a nurturing and fearless leader who not only progressed to the top ranks at Merit Coffee, but also was able to do so while weighing the options of going back to school for software development. During our tenure at Merit Coffee the company was going through a lot of change, mostly due to demand increase and the businesses want for grow. Roger was willing and able to adapt as direction changed on a dime, which is why I think he did so well learning at Codeup. His drive, willingness to learn, and his constant flexibility is why I'm confident he is capable of handling any project or task thrown at him.",
+        "user":"Logan Jung- Decision Science Analyst at USAA"
+      },
+      {
+        "text":"The best dad in the world!",
+        "user":"Riley- Daughter"
+      }
+    ]
+  }
+}
